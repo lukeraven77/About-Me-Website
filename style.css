@@ -8,3 +8,10 @@ tr .lightgray{
 table .specgray{
   background-color: #c0c4c1"
 }
+a{
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
