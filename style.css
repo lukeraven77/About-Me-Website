@@ -2,3 +2,9 @@ h1, h2 {
   font-family: Lato;
   
 }
+tr .lightgray{
+  background-color:lightgray;
+}
+table .specgray{
+  background-color: #c0c4c1"
+}
